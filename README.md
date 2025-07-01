@@ -1,4 +1,4 @@
-# Smart Energy Meter with Power Theft Detection  
+# Smart Energy Meter   
 An IoT-based system using ESP32 and Firebase to monitor real-time electricity usage and detect unauthorized power consumption.
 
 ## ⚡ Overview  
